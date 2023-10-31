@@ -21,9 +21,6 @@ function App() {
       <ProtectionAndHelp />
       <PsychologicalHelp />
       <ConclusionAndResources />
-      <Box height="100vh">
-        <h1>Vite + React</h1>
-      </Box>
     </>
   );
 }
